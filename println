@@ -41,7 +41,3 @@
                 f11.write(read);
             }
         }
-        f11.close();
-        f12.close();
-        System.out.println("打印完毕！");
-    }
